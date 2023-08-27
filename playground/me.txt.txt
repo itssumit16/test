@@ -1,0 +1,5 @@
+{{#user}}
+Name:Sumit
+Skills:AWS,Git,Critical Thinking,
+Email: imsumitk79@gmail.com
+{{/user))
